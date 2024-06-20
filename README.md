@@ -4,7 +4,7 @@ This simple web application allows users to check the weather of a specific loca
 
 ## HTML Structure
 
-The HTML file (`index.html`) defines the basic structure of the Weather App interface:
+The HTML file (`Weather.html`) defines the basic structure of the Weather App interface:
 
 ```html
 <!DOCTYPE html>
